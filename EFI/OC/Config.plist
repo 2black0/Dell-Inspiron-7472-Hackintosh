@@ -205,8 +205,6 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AADAhw==</data>
-				<key>AAPL,slot-name</key>
-				<data>AAAACgAAAA==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
 				<key>device-type</key>
@@ -1234,7 +1232,7 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>boot-args</key>
-				<string>igfxonln=1 alcid=56</string>
+				<string>igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>fwAAAA==</data>
 			</dict>
